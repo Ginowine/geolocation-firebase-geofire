@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "223289202956",
+    "firebase_url": "https://map-apps-70b60.firebaseio.com",
+    "project_id": "map-apps-70b60",
+    "storage_bucket": "map-apps-70b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223289202956:android:c96e67b25a13b170",
+        "android_client_info": {
+          "package_name": "app.location.tutorial.com.locationmapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223289202956-arohukfmsmrcgug10c5gbmnubqtpvfbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.location.tutorial.com.locationmapapp",
+            "certificate_hash": "3efbd6ecd45f6e429e22c98e412291b0b99a7fa0"
+          }
+        },
+        {
+          "client_id": "223289202956-1olb5j3l9ed9o0ufdsf4t33rce6n4r2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSnIKVyuhh8YMXAidDgj4a3lBTkjj0GMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223289202956-1olb5j3l9ed9o0ufdsf4t33rce6n4r2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
